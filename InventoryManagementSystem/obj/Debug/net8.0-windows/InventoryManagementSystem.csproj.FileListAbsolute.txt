@@ -1,0 +1,78 @@
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.exe
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.deps.json
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.pdb
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Categories.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.HomeScreen.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Login_Page.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.MDI.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Products.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.PurchaseInvoice.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.PurchaseInvoiceDetails.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sample.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sample2.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Settings.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Stock.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Suppliers.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Users.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\Inventor.EBF2E7CF.Up2Date
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\refint\InventoryManagementSystem.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.pdb
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\ref\InventoryManagementSystem.dll
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sales.resources
+C:\Users\Hassaan Okarci\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.ProductPricing.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Categories.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.HomeScreen.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Login_Page.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.MDI.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.ProductPricing.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Products.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Properties.Resources.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.PurchaseInvoice.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.PurchaseInvoiceDetails.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sales.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sample.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Sample2.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Settings.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Stock.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Suppliers.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Users.resources
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.exe
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.deps.json
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.runtimeconfig.json
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.pdb
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\Inventor.EBF2E7CF.Up2Date
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\refint\InventoryManagementSystem.dll
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.pdb
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+D:\Saad Important\C# Projects\UniversityLabtasks\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\ref\InventoryManagementSystem.dll
